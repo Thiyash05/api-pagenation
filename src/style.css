@@ -1,0 +1,19 @@
+
+
+.card{
+    box-shadow: 0 0 10px #9e9e9ec7;
+}
+span{
+    font-weight: 600;
+}
+.text{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 13px;
+}
+.summary{
+    font-size: 15px;
+    font-family: math;
+    text-align: justify;
+    font-weight: 500;
+}
